@@ -1,2 +1,0 @@
-# TipTime
-Primera app
